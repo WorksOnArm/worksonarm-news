@@ -9,5 +9,6 @@ Works on ARM newsletter, Edward Vielmetti, Director of Special Projects, Packet
 * Issue 4, May 19, 2017: https://github.com/vielmetti/worksonarm-news/blob/master/2017-W20.md
 > In this issue: developer resources from ARM, HPE's "The Machine", a NAS Kickstarter from Helios, the controversy over systemd that launched Devuan, OpenJDK builds from AdoptOpenJDK, Go 1.9 speedups in the queue, and more.
 * Issue 3, May 12, 2017: https://github.com/vielmetti/worksonarm-news/blob/master/2017-W19.md
+> This issue has Resin's 144-node ARM-based "Beast" cluster, a conference report from Red Hat Summit in Boston, video from DockerCon in Austin, an OpenBSD 6.1 release, and software from NGINX and Portainer.
 * Issue 2, May 5, 2017: https://github.com/vielmetti/worksonarm-news/blob/master/2017-W18.md
 * Issue 1, April 28, 2017: https://github.com/vielmetti/worksonarm-news/blob/master/2017-W17.md
