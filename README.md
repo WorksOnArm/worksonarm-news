@@ -1,6 +1,10 @@
 # worksonarm-news
 
-Works on ARM newsletter, Edward Vielmetti, Director of Special Projects, Packet
+Works on ARM newsletter, Edward Vielmetti, Director of Special Projects, Packet.
+
+Available on Github, posted to Twitter @[worksonarm] on Fridays at noon, and send mail to ed@packet.net to be added to a distribution list.
+
+[worksonarm]:https://twitter.com/worksonarm
 
 * Issue 6, June 2, 2017: https://github.com/vielmetti/worksonarm-news/blob/master/2017-W22.md
 > In this issue: Gigabyte announces Cavium ThunderX2 support; Alpine Linux 3.6.0, 3.6.1; New Docker container directory for "arm64v8"; OpenSUSE on ARM hardware; Ard Biesheuvel's "Works of ARD" weblog and "Project dogfood"; and pigz, a fast parallel version of gzip.
