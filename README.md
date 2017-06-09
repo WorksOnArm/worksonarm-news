@@ -8,6 +8,8 @@ Available on Github, posted to Twitter @[worksonarm] on Fridays at noon, and sen
 
 [worksonarm]:https://twitter.com/worksonarm
 
+* Issue 7, June 9, 2017: https://github.com/vielmetti/worksonarm-news/blob/master/2017-W23.md
+> In this issue: 98 open spec hacker friendly single board computers, Automotive Grade Linux, ThunderX2 presentations at HPC conference, Qualcomm Snapdragon 835 + Microsoft Windows 10, Minio on Go speedups from FOSDEM, and Wireguard VPN with ARM speedups.
 * Issue 6, June 2, 2017: https://github.com/vielmetti/worksonarm-news/blob/master/2017-W22.md
 > In this issue: Gigabyte announces Cavium ThunderX2 support; Alpine Linux 3.6.0, 3.6.1; New Docker container directory for "arm64v8"; OpenSUSE on ARM hardware; Ard Biesheuvel's "Works of ARD" weblog and "Project dogfood"; and pigz, a fast parallel version of gzip.
 * Issue 5, May 26, 2017: https://github.com/vielmetti/worksonarm-news/blob/master/2017-W21.md
