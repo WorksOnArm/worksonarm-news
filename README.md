@@ -1,5 +1,7 @@
 # worksonarm-news
 
+![woa-logo](https://pbs.twimg.com/profile_images/844971800291295232/QSXvBWCK.jpg)
+
 Works on ARM newsletter, Edward Vielmetti, Director of Special Projects, Packet.
 
 Available on Github, posted to Twitter @[worksonarm] on Fridays at noon, and send mail to ed@packet.net to be added to a distribution list.
