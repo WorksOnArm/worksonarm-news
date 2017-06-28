@@ -10,7 +10,7 @@ Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out 
 * 24-core Socionext server
 * EFI and U-Boot on Dragonboard 410c
 * Gitlab Omnibus edition via elraro, ready for testing
-* Linuxkit on ARM \(from mort\)
+* Linuxkit on ARM 
 * Ubuntu on Raspberry Pi 3 compute module
 * Snarky "Register" story
 
@@ -26,7 +26,7 @@ Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out 
 
 ### Gitlab Omnibus edition via elraro, ready for testing
 
-### Linuxkit on ARM \(from mort\)
+### Linuxkit on ARM 
 
 ### Ubuntu on Raspberry Pi 3 compute module
 
