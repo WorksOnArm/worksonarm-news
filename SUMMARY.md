@@ -10,6 +10,5 @@
 * [Week 19, Issue 3](2017-W19.md)
 * [Week 18, Issue 2](2017-W18.md)
 * [Week 17, Issue 1](2017-W17.md)
-* [Colophon](Colophon.md)
 * [Colophon](colophon.md)
 
