@@ -2,7 +2,7 @@ Written in Ann Arbor, Michigan.
 
 Coffee from Roos Roast and Morgan and York. One cup of strong espresso is worth 500 words.
 
-Web production with Github and Gitbook.
+Web production with git(1), Github and Gitbook.
 
 Coworking facilities at Workantile.
 
