@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Week 28, Issue 12](2017-W28.md)
 * [Week 27, Issue 11](2017-W27.md)
 * [Week 26, Issue 10](2017-W26.md)
 * [Week 25, Issue 9](2017-W25.md)
