@@ -1,0 +1,90 @@
+### Go 1.9 RC 1
+
+The Go programming language has [announced availability of Go 1.9 RC 1]
+to the community. This release reflects the
+stablity of Go 1.9, and as part of the test process Google
+puts Go release candidates into production.
+
+[announced availability of Go 1.9 RC 1]:https://groups.google.com/forum/#!topic/golang-dev/25PWiGkxDPU
+
+Like the earlier beta releases of Go, this version comes
+with ARM64 binaries, which are available for you to test.
+There are a small number of bugs still remaining, with
+at this writing 4 open and 609 closed on the Go 1.9 milestone.
+
+Benchmarks of any complex system will depend heavily on your
+workload. [One benchmark report] provided on a single-core A57
+platform shows speedups of anywhere from negligable to over 2x
+on a standardized workload. Your benchmark experience will differ.
+
+[One benchmark report]:https://github.com/golang/go/issues/19082#issuecomment-314552276
+
+Go 1.9 release notes are not finished, but a
+set of [draft release notes for Go 1.9] includes this statement:
+
+> The release adds transparent monotonic time support, parallelizes
+compilation of functions within a package, better supports test
+helper functions, includes a new bit manipulation package, and has
+a new concurrent map type.
+
+[draft release notes for Go 1.9]:https://tip.golang.org/doc/go1.9
+
+The parallel function compilation will be a substantial
+benefit on server-class ARM systems that have lots of cores.
+
+### Docker 17.07 RC 1
+
+Docker has made available a first release candidate of their 17.07
+Community Edition software. For the first time, 17.07 includes ARM64
+binaries, and it re-introduces support for Raspbian on 32-bit ARMv7
+systems.
+
+Docker has a rolling release schedule, and 17.07-ce when it ships
+will be a monthly "edge" option. From the Docker documentation:
+
+> Docker CE and EE are released quarterly, and CE also has a monthly
+“Edge” option. Each Docker EE release is supported and maintained
+for one year and receives security and critical bugfixes during
+that period. We are also improving Docker CE maintainability by
+maintaining each quarterly CE release for 4 months. That gets Docker
+CE users a new 1-month window to update from one version to the
+next.
+
+Like any beta and release candidate software, there are known issues
+which have some expectation of being fixed before the release goes 
+official. In this particular case, 32-bit and 64-bit ARM systems
+may experience difficulties with Docker Swarm mode, resulting from
+inconsistencies in naming of various ARM variants. A suggested
+workaround bypasses the name check with the option `--no-resolve-image`.
+
+The details can
+be found in this [SwarmKit issue], and the blocking bug described
+in this [moby issue]. If one were to want to dive straight into
+the responsible code, it lives in the scheduler filter at
+
+https://github.com/docker/swarmkit/blob/master/manager/scheduler/filter.go#L288
+
+[Swarmkit issue]:https://github.com/docker/swarmkit/issues/2294
+[moby issue]:https://github.com/moby/moby/pull/34021
+
+### Naming things
+
+> There are 2 hard problems in computer science: cache invalidation,
+naming things, and off-by-1 errors. -- Leon Bambrick
+
+The problem experienced by Docker is not unique to that project,
+or even to computer science in general. Sometimes, two different
+systems give different names for the same thing, and there's a
+need to normalize names to a single well-known form so that something
+like a scheduler can know that it's safe to execute code on this
+system. 
+
+As a for instance, 64-bit ARM systems are variably known
+as arm64, armv8, arm64v8, and aarch64. For 32-bit ARM systems there
+are even more variants. Different systems may have different capabilities
+of running 32-bit codes on 64-bit systems, but there is not one
+single unifying name for that capacity. 
+
+To add to the confusion, cross-compilation may create an artifact that
+was built on one operating system and processor type, but that actually
+contains executable code for another system.
