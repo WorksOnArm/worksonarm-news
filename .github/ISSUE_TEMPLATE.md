@@ -1,4 +1,4 @@
-If you are interested in filing a request for access to the Works on Arm test and CI infrastrucgture, please fill out the details below.
+If you are interested in filing a request for access to the Works on Arm test and CI infrastructure, please fill out the details below, or contact Ed Vielmetti at ed@packet.net with questions.
 
 If you are just making a comment on the Works on Arm newsletter, ignore/delete those fields and file your issue.
 
