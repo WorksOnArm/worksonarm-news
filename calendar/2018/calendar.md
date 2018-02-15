@@ -12,6 +12,8 @@ Mobile World Congress, Barcelona, Spain. February 26 - March 1, 2018. https://ww
 
 ### March
 
+Embedded Linux Conference, Portland Oregon. March 12-14, 2018. https://events.linuxfoundation.org/events/elc-openiot-north-america-2018/
+
 Linaro Connect, Hong Kong. March 19-23, 2018. http://connect.linaro.org/
 
 OCP US Summit, San Jose, California, March 20-21, 2018. http://www.opencompute.org/ocp-u.s.-summit-2018/
