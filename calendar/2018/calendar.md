@@ -56,5 +56,6 @@ SC18 ("Supercomputing"), Dallas, Texas, November 11-16, 2018. https://sc18.super
 ## Sources and acknowledgements
 
 * [Container events not to be missed](https://blog.aquasec.com/container-events-not-to-be-missed), Aquasec.
+* [Linux Foundation events](https://events.linuxfoundation.org/), Linux Foundation
 * [Technology events](https://blog.bizzabo.com/technology-events), Bizzabo.
 * [Usenix conferences](https://www.usenix.org/conferences), Usenix.
