@@ -36,6 +36,8 @@ DockerCon, San Francisco, California. June 12-15, 2018. https://2018.dockercon.c
 
 Usenix Annual Technical Conference, Boston, Massachusetts, July 11-13, 2018. https://www.usenix.org/conference/atc18
 
+Debian Conference "DebConf18", Hsinchu, Taiwan, July 29 - August 5, 2018. https://debconf18.debconf.org/
+
 ### August
 
 ### September
