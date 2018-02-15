@@ -24,6 +24,8 @@ Usenix SREcon 2018 Americas, Santa Clara, California. March 27-29, 2018. https:/
 
 KubeCon + CloudNativeCon Europe 2018, Copenhagen, Denmark, May 2-4 2018. https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2018/
 
+Red Hat Summit, San Francisco, Californai, May 8-10 2018. https://www.redhat.com/en/summit/2018
+
 ### June
 
 DockerCon, San Francisco, California. June 12-15, 2018. https://2018.dockercon.com/
