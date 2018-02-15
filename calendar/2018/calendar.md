@@ -4,7 +4,7 @@ Maintained by ed@packet.net for Works on Arm News.
 
 ### January
 
-CES, Las Vegas, January 8-12, 2018. https://www.ces.tech/
+CES, Las Vegas, Nevada. January 8-12, 2018. https://www.ces.tech/
 
 ### February
 
@@ -28,7 +28,7 @@ Usenix SREcon 2018 Americas, Santa Clara, California. March 27-29, 2018. https:/
 
 KubeCon + CloudNativeCon Europe 2018, Copenhagen, Denmark, May 2-4 2018. https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2018/
 
-Red Hat Summit, San Francisco, Californai, May 8-10 2018. https://www.redhat.com/en/summit/2018
+Red Hat Summit, San Francisco, California, May 8-10 2018. https://www.redhat.com/en/summit/2018
 
 ### June
 
