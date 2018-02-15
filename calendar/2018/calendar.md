@@ -32,6 +32,8 @@ KubeCon + CloudNativeCon Europe 2018, Copenhagen, Denmark, May 2-4 2018. https:/
 
 Red Hat Summit, San Francisco, California, May 8-10 2018. https://www.redhat.com/en/summit/2018
 
+OpenStack Summit, Vancouver, British Columbia, May 21-24 2018. https://www.openstack.org/summit/vancouver-2018/
+
 ### June
 
 DockerCon, San Francisco, California. June 12-15, 2018. https://2018.dockercon.com/
