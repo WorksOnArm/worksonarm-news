@@ -34,6 +34,8 @@ DockerCon, San Francisco, California. June 12-15, 2018. https://2018.dockercon.c
 
 ### July
 
+Usenix Annual Technical Conference, Boston, Massachusetts, July 11-13, 2018. https://www.usenix.org/conference/atc18
+
 ### August
 
 ### September
@@ -41,3 +43,4 @@ DockerCon, San Francisco, California. June 12-15, 2018. https://2018.dockercon.c
 ## Sources and acknowledgements
 
 * [Container events not to be missed](https://blog.aquasec.com/container-events-not-to-be-missed), Aquasec.
+* [Usenix conferences](https://www.usenix.org/conferences), Usenix.
