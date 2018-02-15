@@ -4,6 +4,8 @@ Maintained by ed@packet.net for Works on Arm News.
 
 ### January
 
+CES, Las Vegas, January 8-12, 2018. https://www.ces.tech/
+
 ### February
 
 FOSDEM, Brussels, Belgium. February 3-4, 2018. https://fosdem.org/2018/
