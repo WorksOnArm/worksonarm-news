@@ -46,7 +46,7 @@ Debian Conference "DebConf18", Hsinchu, Taiwan, July 29 - August 5, 2018. https:
 
 ### November
 
-* SC18 ("Supercomputing"), Dallas, Texas, November 11-16, 2018. https://sc18.supercomputing.org/
+SC18 ("Supercomputing"), Dallas, Texas, November 11-16, 2018. https://sc18.supercomputing.org/
 
 ### December
 
