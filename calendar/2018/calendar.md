@@ -37,3 +37,5 @@ DockerCon, San Francisco, California. June 12-15, 2018. https://2018.dockercon.c
 ### September
 
 ## Sources and acknowledgements
+
+* [Container events not to be missed](https://blog.aquasec.com/container-events-not-to-be-missed), Aquasec.
