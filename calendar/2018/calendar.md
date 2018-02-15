@@ -12,6 +12,8 @@ FOSDEM, Brussels, Belgium. February 3-4, 2018. https://fosdem.org/2018/
 
 Mobile World Congress, Barcelona, Spain. February 26 - March 1, 2018. https://www.mobileworldcongress.com/about/
 
+Container World, Santa Clara, California. February 26-28, 2018. https://tmt.knect365.com/container-world/
+
 ### March
 
 Embedded Linux Conference, Portland Oregon. March 12-14, 2018. https://events.linuxfoundation.org/events/elc-openiot-north-america-2018/
