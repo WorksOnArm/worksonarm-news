@@ -4,11 +4,11 @@ Maintained by ed@packet.net for Works on Arm News.
 
 ### January
 
-CES, Las Vegas, Nevada. January 8-12, 2018. https://www.ces.tech/
+CES, Las Vegas, Nevada. January 8-12, 2018. https://www.ces.tech/ #CES2018 #CES18 #CES
 
 ### February
 
-FOSDEM, Brussels, Belgium. February 3-4, 2018. https://fosdem.org/2018/
+FOSDEM, Brussels, Belgium. February 3-4, 2018. https://fosdem.org/2018/ #FOSDEM2018 #FOSDEM18 #FOSDEM
 
 Mobile World Congress, Barcelona, Spain. February 26 - March 1, 2018. https://www.mobileworldcongress.com/about/
 
