@@ -68,6 +68,7 @@ SC18 ("Supercomputing"), Dallas, Texas, November 11-16, 2018. https://sc18.super
 ## Sources and acknowledgements
 
 * [Arm Featured Events](https://www.arm.com/company/events), Arm.
+* [Cavium Upcoming Global Events](https://www.cavium.com/tradeshows-events.html), Cavium.
 * [Container events not to be missed](https://blog.aquasec.com/container-events-not-to-be-missed), Aquasec.
 * [Linux Foundation events](https://events.linuxfoundation.org/), Linux Foundation
 * [Qualcomm events](https://www.qualcomm.com/company/events), Qualcomm
