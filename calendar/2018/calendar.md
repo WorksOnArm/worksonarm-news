@@ -50,9 +50,11 @@ Debian Conference "DebConf18", Hsinchu, Taiwan, July 29 - August 5, 2018. https:
 
 ### September
 
+Arm Research Summit 2018, Cambridge, UK. September 17-19, 2018. https://www.arm.com/company/events/research-summit
+
 ### October
 
-Arm TechCon, San Jose, California. October 16-18. http://www.armtechcon.com/arm-techcon-2018
+Arm TechCon, San Jose, California. October 16-18, 2018. http://www.armtechcon.com/arm-techcon-2018
 
 ### November
 
