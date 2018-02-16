@@ -52,6 +52,8 @@ Debian Conference "DebConf18", Hsinchu, Taiwan, July 29 - August 5, 2018. https:
 
 ### August
 
+Open Source Summit North America, Vancouver, British Columbia, Canada. August 29-31, 2018. https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/
+
 ### September
 
 Mobile World Congress Americas, Los Angeles, California. September 12-14, 2018. https://www.mwcamericas.com/
