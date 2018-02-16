@@ -52,6 +52,8 @@ Debian Conference "DebConf18", Hsinchu, Taiwan, July 29 - August 5, 2018. https:
 
 ### October
 
+Arm TechCon, San Jose, California. October 16-18. http://www.armtechcon.com/arm-techcon-2018
+
 ### November
 
 SC18 ("Supercomputing"), Dallas, Texas, November 11-16, 2018. https://sc18.supercomputing.org/
