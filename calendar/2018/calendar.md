@@ -26,6 +26,8 @@ Usenix SREcon 2018 Americas, Santa Clara, California. March 27-29, 2018. https:/
 
 ### April
 
+RSA Conference, San Francisco, California. April 16-20. https://www.rsaconference.com/events/us18
+
 ### May
 
 KubeCon + CloudNativeCon Europe 2018, Copenhagen, Denmark, May 2-4 2018. https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2018/
