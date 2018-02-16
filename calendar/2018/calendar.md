@@ -50,6 +50,8 @@ Debian Conference "DebConf18", Hsinchu, Taiwan, July 29 - August 5, 2018. https:
 
 ### September
 
+Mobile World Congress Americas, Los Angeles, California. September 12-14, 2018. https://www.mwcamericas.com/
+
 Arm Research Summit 2018, Cambridge, UK. September 17-19, 2018. https://www.arm.com/company/events/research-summit
 
 ### October
@@ -68,5 +70,6 @@ SC18 ("Supercomputing"), Dallas, Texas, November 11-16, 2018. https://sc18.super
 * [Arm Featured Events](https://www.arm.com/company/events), Arm.
 * [Container events not to be missed](https://blog.aquasec.com/container-events-not-to-be-missed), Aquasec.
 * [Linux Foundation events](https://events.linuxfoundation.org/), Linux Foundation
+* [Qualcomm events](https://www.qualcomm.com/company/events), Qualcomm
 * [Technology events](https://blog.bizzabo.com/technology-events), Bizzabo.
 * [Usenix conferences](https://www.usenix.org/conferences), Usenix.
