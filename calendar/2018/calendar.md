@@ -18,6 +18,8 @@ Container World, Santa Clara, California. February 26-28, 2018. https://tmt.knec
 
 Embedded Linux Conference, Portland Oregon. March 12-14, 2018. https://events.linuxfoundation.org/events/elc-openiot-north-america-2018/
 
+IETF 101, London, UK. March 18-23, 2018. https://www.ietf.org/
+
 Linaro Connect, Hong Kong. March 19-23, 2018. http://connect.linaro.org/
 
 OCP US Summit, San Jose, California, March 20-21, 2018. http://www.opencompute.org/ocp-u.s.-summit-2018/
@@ -46,6 +48,8 @@ ISC High Performance, Frankfurt, Germany. June 24-28, 2018. http://www.isc-hpc.c
 
 Usenix Annual Technical Conference, Boston, Massachusetts, July 11-13, 2018. https://www.usenix.org/conference/atc18
 
+IETF 102, Montreal, Quebec, Canada. July 14-20, 2018. https://www.ietf.org/
+
 O'Reilly Open Source Convention "OSCON", Portland, Oregon. July 18-19, 2018. https://conferences.oreilly.com/oscon/oscon-or
 
 Debian Conference "DebConf18", Hsinchu, Taiwan, July 29 - August 5, 2018. https://debconf18.debconf.org/
@@ -66,6 +70,8 @@ Arm TechCon, San Jose, California. October 16-18, 2018. http://www.armtechcon.co
 
 ### November
 
+IETF 103, Bangkok, Thailand, November 3-9, 2018.  https://www.ietf.org/
+
 SC18 ("Supercomputing"), Dallas, Texas, November 11-16, 2018. https://sc18.supercomputing.org/
 
 ### December
@@ -76,6 +82,7 @@ SC18 ("Supercomputing"), Dallas, Texas, November 11-16, 2018. https://sc18.super
 * [Arm Featured Events](https://www.arm.com/company/events), Arm.
 * [Cavium Upcoming Global Events](https://www.cavium.com/tradeshows-events.html), Cavium.
 * [Container events not to be missed](https://blog.aquasec.com/container-events-not-to-be-missed), Aquasec.
+* [IETF upcoming meetings](https://www.ietf.org/how/meetings/upcoming/), IETF
 * [Linux Foundation events](https://events.linuxfoundation.org/), Linux Foundation
 * [Qualcomm events](https://www.qualcomm.com/company/events), Qualcomm
 * [Technology events](https://blog.bizzabo.com/technology-events), Bizzabo.
