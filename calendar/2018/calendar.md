@@ -40,6 +40,8 @@ OpenStack Summit, Vancouver, British Columbia, May 21-24 2018. https://www.opens
 
 DockerCon, San Francisco, California. June 12-15, 2018. https://2018.dockercon.com/
 
+ISC High Performance, Frankfurt, Germany. June 24-28, 2018. http://www.isc-hpc.com/
+
 ### July
 
 Usenix Annual Technical Conference, Boston, Massachusetts, July 11-13, 2018. https://www.usenix.org/conference/atc18
