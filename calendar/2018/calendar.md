@@ -1,6 +1,7 @@
 ## Events calendar for 2018
 
 Maintained by ed@packet.net for Works on Arm News.
+Version of 2018-02-16
 
 ### January
 
