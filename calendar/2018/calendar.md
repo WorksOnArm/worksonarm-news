@@ -1,7 +1,7 @@
 ## Events calendar for 2018
 
 Maintained by ed@packet.net for Works on Arm News.
-Version of 2018-02-16
+Version of 2018-02-19
 
 ### January
 
@@ -12,6 +12,8 @@ CES, Las Vegas, Nevada. January 8-12, 2018. https://www.ces.tech/ #CES2018 #CES1
 FOSDEM, Brussels, Belgium. February 3-4, 2018. https://fosdem.org/2018/ #FOSDEM2018 #FOSDEM18 #FOSDEM
 
 Mobile World Congress, Barcelona, Spain. February 26 - March 1, 2018. https://www.mobileworldcongress.com/about/
+
+Embedded World, Nuremberg, Germany. February 27 - March 1, 2018 https://www.embedded-world.de/en
 
 Container World, Santa Clara, California. February 26-28, 2018. https://tmt.knect365.com/container-world/
 
