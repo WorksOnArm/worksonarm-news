@@ -69,6 +69,8 @@ Arm Research Summit 2018, Cambridge, UK. September 17-19, 2018. https://www.arm.
 
 Arm TechCon, San Jose, California. October 16-18, 2018. http://www.armtechcon.com/arm-techcon-2018
 
+All Things Open, Raleigh, North Carolina, October 21-23, 2018. https://allthingsopen.org/
+
 ### November
 
 IETF 103, Bangkok, Thailand, November 3-9, 2018.  https://www.ietf.org/
@@ -84,7 +86,9 @@ SC18 ("Supercomputing"), Dallas, Texas, November 11-16, 2018. https://sc18.super
 * [Cavium Upcoming Global Events](https://www.cavium.com/tradeshows-events.html), Cavium.
 * [Container events not to be missed](https://blog.aquasec.com/container-events-not-to-be-missed), Aquasec.
 * [IETF upcoming meetings](https://www.ietf.org/how/meetings/upcoming/), IETF
+* [FreeBSD events](https://www.freebsd.org/events/), FreeBSD
 * [Linux Foundation events](https://events.linuxfoundation.org/), Linux Foundation
+* [Made in Ann Arbor events calendar](http://madeina2.com/calendar/), Made in Ann Arbor
 * [NYC Tech Events](https://www.builtinnyc.com/events), Built in NYC
 * [Qualcomm events](https://www.qualcomm.com/company/events), Qualcomm
 * [Technology events](https://blog.bizzabo.com/technology-events), Bizzabo.
