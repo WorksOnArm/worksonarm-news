@@ -67,6 +67,8 @@ Mobile World Congress Americas, Los Angeles, California. September 12-14, 2018. 
 
 Arm Research Summit 2018, Cambridge, UK. September 17-19, 2018. https://www.arm.com/company/events/research-summit
 
+ApacheCon, Montreal, Quebec, Canada. September 24-27, 2018. https://www.apachecon.com/acna18/
+
 ### October
 
 Arm TechCon, San Jose, California. October 16-18, 2018. http://www.armtechcon.com/arm-techcon-2018
